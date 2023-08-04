@@ -1,0 +1,2 @@
+# win-resolusi
+Planning
